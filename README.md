@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gabperezp
-- 👀 I’m interested in books
-- 🌱 I’m currently learning english and programation 
+- 👋 _Hi, I’m @gabperezp_
+- 👀 _I’m interested in books_
+- 🌱 _I’m currently learning english and programation_
 
 <!---
 gabperezpp/gabperezpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
